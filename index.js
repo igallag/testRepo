@@ -3,4 +3,4 @@ const hello = (name) => {
     return true
 }
 
-hello('Katy')
+hello('Ian')
